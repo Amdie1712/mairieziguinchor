@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Mairie de Ziguinchor",
+  "description": "Site officiel de la Mairie de Ziguinchor. Services en ligne, actualités et informations administratives pour les citoyens.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
